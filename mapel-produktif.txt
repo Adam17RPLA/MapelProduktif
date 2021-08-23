@@ -1,3 +1,5 @@
 Simulasi dan Komunikasi Digital
 Pemrogaman Dasar
 Komputer Jaringan Dasar
+Fisika
+Dasar Desain Grafis
